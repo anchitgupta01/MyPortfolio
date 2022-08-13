@@ -1,7 +1,8 @@
 <h2 align="center">
   Portfolio Website <br/>
-  <cap>-by AnchitGupta</cap>
 </h2>
+  <cap>-by AnchitGupta</cap>
+
 <div align="center">
   <img alt="Demo" src="./Images/Screenshot(226).png" />
 </div>
